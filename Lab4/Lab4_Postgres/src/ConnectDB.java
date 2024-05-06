@@ -20,13 +20,13 @@ class ConnectDB {
                 System.out.println("Connection Failed");
             }
             //task execution
-            //task1(conn);
-            //task2(conn);
-            //task3(conn);
-            //task4(conn);
-            //task5(conn);
-            //task6(conn);
-            //task7(conn);
+            task1(conn);
+            task2(conn);
+            task3(conn);
+            task4(conn);
+            task5(conn);
+            task6(conn);
+            task7(conn);
             task8(conn);
         }
         catch (Exception e) {
